@@ -77,8 +77,8 @@ KidSmart follows Kenya's CBC for English Language, covering:
 MIT License
 
 ## Contributors
-- Developer Name (Your Name)
-- Supervisor Name (Project Supervisor)
+- Developer Name Brian Gillo
+- Supervisor Name Dr Rose   Nyamwamu
 
 ---
 KidSmart is designed to ensure every child, regardless of learning speed or challenges, has the opportunity to succeed.
