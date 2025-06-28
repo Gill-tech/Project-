@@ -12,7 +12,6 @@ KidSmart is a mobile and web-based learning platform designed to support childre
 - **Progress Tracking**: Enables parents and teachers to monitor learner progress
 - **Offline Access**: Lessons and data are accessible without internet
 - **Parent Dashboard**: For monitoring and managing child accounts
-- **Subscription Model**: Affordable plans with MPESA integration
 
 ## Target Users
 
@@ -27,8 +26,6 @@ KidSmart is a mobile and web-based learning platform designed to support childre
 - **Database**: Firebase or MongoDB
 - **Design**: Figma, Adobe XD
 - **Authentication**: Firebase Auth
-- **Payment Integration**: MPESA Daraja API
-- **Notification**: SMS API via Africa's Talking
 
 ## Folder Structure
 
